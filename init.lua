@@ -1,2 +1,5 @@
-require("ash")
-print("Hello world")
+require("config.lazy")
+require("vim-options")
+
+
+
